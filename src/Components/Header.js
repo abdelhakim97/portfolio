@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import { logos, socialMediaUrl } from "../Details";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPaperPlane,faLaptopCode } from "@fortawesome/free-solid-svg-icons";
 import imgheader from '../assets/img/27fca79e11f01a69273a73a7acadc831.jpg'
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
@@ -10,11 +12,19 @@ function Header() {
   };
 
   return (
-    <header className="container mx-auto md:flex justify-between py-2 max-width">
+    <header className="container mx-auto md:flex justify-between py-2 max-width" style={{ paddingTop: '1rem' }}>
       <div className="flex justify-between items-center py-2 md:py-10">
-        <NavLink to="portfolio">
-        <img className="w-14 rounded-full" src={imgheader} alt="" />
-        </NavLink>
+    <NavLink 
+  to="portfolio" 
+  className="flex items-center hover:text-blue-600 transition-colors"
+  onClick={toggleClass}
+>
+  <FontAwesomeIcon 
+    icon={faLaptopCode} 
+    className="text-2xl mr-2 text-dark-heading dark:text-light-heading" 
+  />
+  <span className="text-lg font-medium">Portfolio</span>
+</NavLink>
         <div onClick={toggleClass} className="cursor-pointer">
           <svg
             className="stroke-dark-heading dark:stroke-white md:hidden"
