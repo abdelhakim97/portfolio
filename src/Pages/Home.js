@@ -10,7 +10,7 @@ import {
   faDatabase,
   faPalette,
 } from "@fortawesome/free-solid-svg-icons";
-import cv from "../assets/Cv/27dfc1214.pdf";
+import cv from "../assets/Cv/cv_02.pdf";
 import imgprofile from "../assets/img/img_pro.png";
 
 function Home() {
@@ -133,7 +133,7 @@ function Home() {
 
           <div ref={statsRef} className="grid grid-cols-3 gap-4 md:gap-6 pt-4 max-w-lg">
             {[
-              { num: "3+", label: "Years Experience" },
+              { num: "1+", label: "Years Experience" },
               { num: "20+", label: "Projects Done" },
               { num: "10+", label: "Happy Clients" },
             ].map((stat, i) => (

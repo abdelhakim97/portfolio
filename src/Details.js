@@ -63,7 +63,7 @@ import logoofppt from './assets/Exp/27sdc122w512.png'
 import vnblogo from './assets/Exp/logo_v.jfif'
 import plan from './assets/Exp/plan_logo_without_bg.png'
 import logolp from './assets/Exp/logo_fp_sidiben-removebg-preview.png'
-
+import logosidi from './assets/Exp/logosidi.png'
 import imgProfile from './assets/img/img_light.png'
 // Logos
 export const logos = {
@@ -146,6 +146,16 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
+  img: logosidi,
+  Position: "Master in Information Systems, Decision Support and Imaging (SIDI)",
+  Company: "Faculty of Sciences and Techniques of Errachidia",
+  Location: "Faculty of Sciences and Techniques of Errachidia, Morocco",
+  Type: "Full Time",
+  SKILLS: "AI,Data Science,Cybersecurity,Business Intelligence,Decision Support Systems,Image Processing,Java,Java EE,Android,Information Systems,Databases,...",
+  description: "I am currently pursuing a Master's degree in Information Systems, Decision Support and Imaging (SIDI) at the Faculty of Sciences and Techniques of Errachidia. This program focuses on Artificial Intelligence, Data Science, Business Intelligence, Decision Support Systems, and Image Processing. I am also developing my skills in Java, Java EE, Android development, databases, and information systems. This training combines theoretical knowledge with practical skills in data analysis, intelligent systems, software development, and digital information management.",
+  Duration: "Nov 2025 - Jul 2027 · 2 years",
+},
+  {
     img: logolp,
     Position: "Computer Science and Applied Mathematics",
     Company: "Chouaïb Doukkali University",
@@ -219,7 +229,7 @@ export const projectDetails = [
     image: ecom1,
     description: `Design of an e-commerce website for sending quotes via email for curtain products and anti-welding strip doors.`,
     techstack: "React.JS/Redux, Rest API",
-    previewLink: "https://lanieremaroc.com/laniere-rideau/",
+    previewLink: "#",
     githubLink: "Private",
     linkVideo:videoecom
   },
@@ -228,7 +238,7 @@ export const projectDetails = [
     image: ecom2,
     description: `Developed the admin side of an e-commerce application to manage products, orders, and customer interactions efficiently. The application features a comprehensive dashboard, allowing administrators to oversee all aspects of the online store.`,
     techstack: "Laravel, Rest API",
-    previewLink: "https://lanieremaroc.com/laniere_controlpanel/",
+    previewLink: "#",
     githubLink: "Private",
     linkVideo:videoecom
   },
