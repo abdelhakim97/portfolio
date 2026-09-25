@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2b4ea7bf.css",
-    "main.js": "/portfolio/static/js/main.e8b2844f.js",
+    "main.css": "/portfolio/static/css/main.0788d318.css",
+    "main.js": "/portfolio/static/js/main.5453f760.js",
     "static/media/ecom.mp4": "/portfolio/static/media/ecom.3903792d205bd66c4194.mp4",
     "static/media/27sd151.mp4": "/portfolio/static/media/27sd151.dfc6e0d92efd7257bd8a.mp4",
     "static/media/24sd22.mp4": "/portfolio/static/media/24sd22.63396c0c7fea4803ee17.mp4",
@@ -10,20 +10,19 @@
     "static/media/video_app_Weather.mp4": "/portfolio/static/media/video_app_Weather.e0a2b1a5f60ec5c602d3.mp4",
     "static/media/calc.mp4": "/portfolio/static/media/calc.835763ecef566e821011.mp4",
     "static/media/2751sd15.mp4": "/portfolio/static/media/2751sd15.afbf533ee9d168beaa77.mp4",
-    "static/media/jpg": "/portfolio/static/media/27fca79e11f01a69273a73a7acadc831.ab622cc330fbcc834f25.jpg",
+    "static/media/img_pro.png": "/portfolio/static/media/img_pro.90e38d5e314b21936c79.png",
     "static/media/img_light.png": "/portfolio/static/media/img_light.da6b72047aca43343da8.png",
     "static/media/27fc123.jpg": "/portfolio/static/media/27fc123.0ecf775b0ac148f69d7b.jpg",
     "static/media/PhpMyAdmin_logo.svg.png": "/portfolio/static/media/PhpMyAdmin_logo.svg.c5964397cff5e39d9053.png",
     "static/media/canva.png": "/portfolio/static/media/canva.deffde5a81ceb24aa9a1.png",
-    "static/media/27dfc1214.pdf": "/portfolio/static/media/27dfc1214.86973bdb8a5d1c1cbb03.pdf",
     "static/media/27wx125.jpg": "/portfolio/static/media/27wx125.a3a71c4ee7f22ef0cd7c.jpg",
-    "static/media/20240703_182117-removebg-preview.png": "/portfolio/static/media/20240703_182117-removebg-preview.2979534786de3af93686.png",
     "static/media/27sdw125.jpg": "/portfolio/static/media/27sdw125.dda4051923357aa34080.jpg",
     "static/media/12sdsd121.jpg": "/portfolio/static/media/12sdsd121.68904a5960bf8eea935c.jpg",
     "static/media/2154qsdqs.jpg": "/portfolio/static/media/2154qsdqs.d5b130ead1481c37b5d1.jpg",
     "static/media/27df12.jpg": "/portfolio/static/media/27df12.a3b7ce53cabdcd638763.jpg",
     "static/media/C_Programming_Language.svg.png": "/portfolio/static/media/C_Programming_Language.svg.6826ff7dfa5d25f8e0d5.png",
     "static/media/HeidiSQL.png": "/portfolio/static/media/HeidiSQL.c1bf10a2bc786c316f4a.png",
+    "static/media/cv_02.pdf": "/portfolio/static/media/cv_02.66738ba753434de8e1d2.pdf",
     "static/media/pycharm.png": "/portfolio/static/media/pycharm.49a334046eaf4b016533.png",
     "static/media/27sd15.jpg": "/portfolio/static/media/27sd15.43b52992e68e90cedabd.jpg",
     "static/media/nodeJs-removebg-preview.png": "/portfolio/static/media/nodeJs-removebg-preview.ea91032d8b9297a2a9ac.png",
@@ -31,6 +30,7 @@
     "static/media/jquery.png": "/portfolio/static/media/jquery.0ea78f05d37ab99c3f7d.png",
     "static/media/cal.jpg": "/portfolio/static/media/cal.a805ef24c2bff2ba60c6.jpg",
     "static/media/27sdc122w512.png": "/portfolio/static/media/27sdc122w512.b2a72fff679e777f4adf.png",
+    "static/media/logosidi.png": "/portfolio/static/media/logosidi.b792bad75bd92bd03b65.png",
     "static/media/logo_fp_sidiben-removebg-preview.png": "/portfolio/static/media/logo_fp_sidiben-removebg-preview.c6fb0bd7e96fff8c28b7.png",
     "static/media/27qd12sdc1211.png": "/portfolio/static/media/27qd12sdc1211.5aadeff26adf16f229aa.png",
     "static/media/27cvf56.jpg": "/portfolio/static/media/27cvf56.069c894082fcb1a48d8a.jpg",
@@ -49,11 +49,11 @@
     "static/media/php.svg": "/portfolio/static/media/php.7c41b19923da57634a76372016ed129e.svg",
     "static/media/mongodb.svg": "/portfolio/static/media/mongodb.a4f56329ee1f9137e821e89189d1f904.svg",
     "index.html": "/portfolio/index.html",
-    "main.2b4ea7bf.css.map": "/portfolio/static/css/main.2b4ea7bf.css.map",
-    "main.e8b2844f.js.map": "/portfolio/static/js/main.e8b2844f.js.map"
+    "main.0788d318.css.map": "/portfolio/static/css/main.0788d318.css.map",
+    "main.5453f760.js.map": "/portfolio/static/js/main.5453f760.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b4ea7bf.css",
-    "static/js/main.e8b2844f.js"
+    "static/css/main.0788d318.css",
+    "static/js/main.5453f760.js"
   ]
 }
